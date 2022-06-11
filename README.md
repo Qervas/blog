@@ -1,3 +1,10 @@
+# Hi, there
+Welcome to my repo for blogging.
+### Credit
+Thanks to the blog template for saving my time to build, configure, deploy all of these blog things.
+Demo README is down below.
+***
+
 <h1 align=center>Parsa Hugo | <a target="_blank" href="https://demo.gethugothemes.com/parsa" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fparsa%2F">Page Speed (83%)</a></h1>
 
 <p align=center>
