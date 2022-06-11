@@ -32,12 +32,12 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Beijing"
-author = "John Doe"
+author = "Frank Yin"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](https://themefisher.com)"
-description = "This is meta description"
+description = "Brief intro"
 email = "djmax96945147@outlook.com"
 home = "Home"
 layout = "1"
@@ -79,15 +79,6 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
-[[params.social]]
-icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#https://www.linkedin.cn/incareer/in/shaoxuan-yin-021548170"
 [[params.social]]
 icon = "ti-github"
 link = "#https://github.com/Qervas"
