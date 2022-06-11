@@ -8,3 +8,5 @@ image: images/author.jpg
 ### Ciao! I’m **Frank Yin(aka. Qervas)**
 
 This blog site is to share those regular-everyday-normal-cool things through my experience—also a chance to engrave my writing skills in the long run.
+
+My blog contents are from things I'm learning in reality.
