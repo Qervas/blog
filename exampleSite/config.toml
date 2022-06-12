@@ -81,4 +81,4 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-github"
-link = "#https://github.com/Qervas"
+link = "https://github.com/Qervas"
