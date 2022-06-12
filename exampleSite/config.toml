@@ -1,4 +1,4 @@
-baseurl = "https://demo.gethugothemes.com/parsa/examplesite/"
+baseurl = "https://qervas.netlify.app/"
 googleAnalytics = ""
 languageCode = "en-us"
 paginate = 6
@@ -8,22 +8,26 @@ title = "QervasBlog"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "CS"
-parent = "Homepage"
-url = "homepage/cs"
-weight = 1
-[[menu.main]]
 hasChildren = true
 name = "Homepage"
+url = ""
 weight = 1
 [[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 3
+name = "Homepage 1"
+parent = "Homepage"
+url = "homepage/home-1/"
+[[menu.main]]
+name = "Homepage 2"
+parent = "Homepage"
+url = "homepage/home-2/"
 [[menu.main]]
 name = "About"
 url = "about/"
 weight = 2
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
